@@ -1,4 +1,4 @@
-#import evdev
+#!/usr/bin/env python
 from evdev import InputDevice, categorize, ecodes
 
 #creates object 'gamepad' to store the data
